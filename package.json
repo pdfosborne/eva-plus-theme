@@ -1,0 +1,34 @@
+{
+  "name": "eva-plus-theme",
+  "displayName": "Eva Plus Theme",
+  "description": "A beautiful dark theme for Visual Studio Code. This is a modified version of the Eva Dark theme by Eamyoung.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Eva Plus",
+        "uiTheme": "vs-dark",
+        "path": "./themes/eva-plus-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "PhilipOsborne",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pdfosborne/eva-plus-theme"
+  },
+  "icon": "icon.png",
+  "keywords": [
+    "theme",
+    "dark",
+    "eva",
+    "plus"
+  ],
+  "license": "MIT"
+} 
