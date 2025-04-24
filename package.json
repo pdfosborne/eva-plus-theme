@@ -2,7 +2,7 @@
   "name": "eva-plus-theme",
   "displayName": "Eva Plus Theme",
   "description": "A beautiful dark theme for Visual Studio Code. This is a modified version of the Eva Dark theme by Eamyoung.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.60.0"
   },
